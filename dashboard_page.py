@@ -19,7 +19,7 @@ df = load_data()
 
 def show_dashboard_page():
 
-    st.title("Breast Cancer Data Set Dashboard")
+    st.title("Breast Cancer Data Set Dashboard (made by KevinT)")
 
     st.write(
         """
